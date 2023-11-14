@@ -1,0 +1,3 @@
+#!/bin/sh
+
+curl https://www.cloudflare.com/cdn-cgi/trace/
